@@ -15,43 +15,43 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Python Developer and BDE</h4>
+                <h5>HK digiverse</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Spearheaded client engagement initiatives, increasing project pipeline by 30%.
+              Led development of AI-driven projects utilizing Python, enhancing operational efficiency by 25%.
+              Cultivated strong stakeholder relationships and conducted market analysis.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>AI Assistant Developer</h4>
+                <h5>Self-Practice (Friday 2.0)</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Engineered a Python-based AI assistant with wake-word detection and voice commands.
+              Integrated Edge-TTS for natural voice output and Vosk for high-accuracy STT.
+              Developed a user-friendly GUI using Tkinter.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Cybersecurity Researcher</h4>
+                <h5>Self-Practice (Lab)</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Conducted penetration testing using Kali Linux. Employed Wireshark for traffic analysis
+              and Nmap for network scanning. Implemented vulnerability scanning tools to evaluate
+              security postures.
             </p>
           </div>
         </div>

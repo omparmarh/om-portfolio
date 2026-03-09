@@ -87,20 +87,20 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>DEVELOPMENT</h3>
+              <h4>AI & Web Application Development</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Building intelligent applications using Python and modern web technologies.
+                From AI voice assistants to full-stack e-commerce platforms.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
+                <div className="what-tags">Python</div>
                 <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
+                <div className="what-tags">Node.js</div>
+                <div className="what-tags">MySQL</div>
                 <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
+                <div className="what-tags">Tkinter</div>
                 <div className="what-tags">HTML5</div>
                 <div className="what-tags">CSS3</div>
               </div>
@@ -126,22 +126,22 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>CYBERSECURITY</h3>
+              <h4>Network Security & Penetration Testing</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Conducting foundational penetration testing and network analysis.
+                Evaluating security postures and implementing risk management strategies.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">Kali Linux</div>
+                <div className="what-tags">Wireshark</div>
+                <div className="what-tags">Nmap</div>
+                <div className="what-tags">Penetration Testing</div>
+                <div className="what-tags">Network Security</div>
+                <div className="what-tags">Vulnerability Scanning</div>
+                <div className="what-tags">Threat Detection</div>
+                <div className="what-tags">Risk Management</div>
               </div>
               <div className="what-arrow"></div>
             </div>
