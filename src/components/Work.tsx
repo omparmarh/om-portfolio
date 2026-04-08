@@ -5,6 +5,18 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
+    title: "AI Panchayat",
+    category: "Digital Governance & AI",
+    tools: "TypeScript, Supabase, React, AI Integration",
+    image: "/images/panchayat.png",
+  },
+  {
+    title: "Hisab Chokho",
+    category: "Finance Suite (Mobile)",
+    tools: "Kotlin, Jetpack Compose, Room DB, Material Design 3",
+    image: "/images/hisab.png",
+  },
+  {
     title: "Friday 2.0",
     category: "AI Assistant",
     tools: "Python, Edge-TTS, Vosk STT, Tkinter",
