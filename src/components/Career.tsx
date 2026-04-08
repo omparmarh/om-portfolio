@@ -11,6 +11,7 @@ const Career = () => {
         <div className="career-info">
           <div className="career-timeline">
             <div className="career-dot"></div>
+          </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
@@ -38,7 +39,6 @@ const Career = () => {
               Implemented robust offline-first functionality with Room DB and automated recurring transaction logic.
               Designed a clean, intuitive UI following Material Design 3 principles for enhanced financial tracking.
             </p>
-          </div>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
